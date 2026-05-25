@@ -1,11 +1,9 @@
 # Super-Store-Sales-and-Profit-Analysis-Dashboard-using-Power-BI
 
 1. Project Title
-
 SuperStore Sales and Profit Analysis Dashboard using Power BI
 
 2. Short Description
-
 This project is an interactive Power BI dashboard developed using SuperStore sales data to analyze business performance across different regions, categories, segments, and shipping modes. The dashboard provides insights into sales, profit, orders, and customer purchasing trends through dynamic visualizations and KPIs. It helps businesses make data-driven decisions by identifying top-performing areas and sales patterns.
 
 3. Tech Stack
@@ -27,4 +25,5 @@ Geographic visualization of sales and profit by state
 User-friendly dark theme dashboard design
 
 5. Screenshort
-https://github.com/uttamkr06/Super-Store-Sales-and-Profit-Analysis-Dashboard-using-Power-BI/blob/main/DashBoard%20picture.png
+Show what the dashboard look like - ![Alt text](https://github.com/username/repo/sassets/image/png)
+Example:![https://github.com/uttamkr06/Super-Store-Sales-and-Profit-Analysis-Dashboard-using-Power-BI/blob/main/DashBoard%20picture.png) 
