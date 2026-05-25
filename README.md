@@ -24,8 +24,9 @@ Ship Mode performance comparison
 Geographic visualization of sales and profit by state
 User-friendly dark theme dashboard design
 
-5. Screenshort
-Show what the dashboard look like -
+## Dashboard Screenshot
 
-![Dashboard](![Dashboard](https://raw.githubusercontent.com/uttamkr06/Super-Store-Sales-and-Profit-Analysis-Dashboard-using-Power-BI/main/DashBoard%20picture.png))
+![Dashboard](dashboard.png)
+
+
 
