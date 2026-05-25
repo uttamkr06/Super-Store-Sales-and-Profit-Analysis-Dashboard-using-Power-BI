@@ -25,5 +25,5 @@ Geographic visualization of sales and profit by state
 User-friendly dark theme dashboard design
 
 5. Screenshort
-Show what the dashboard look like - ![Alt text](https://github.com/username/repo/sassets/image/png)
+Show what the dashboard look like - ![Alt text](https://github.com/username/repo/raw/main/dashboard.png)
 Example:![https://github.com/uttamkr06/Super-Store-Sales-and-Profit-Analysis-Dashboard-using-Power-BI/blob/main/DashBoard%20picture.png) 
