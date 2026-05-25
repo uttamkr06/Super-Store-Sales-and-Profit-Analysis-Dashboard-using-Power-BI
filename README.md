@@ -27,3 +27,4 @@ Geographic visualization of sales and profit by state
 User-friendly dark theme dashboard design
 
 5. Screenshort
+https://github.com/uttamkr06/Super-Store-Sales-and-Profit-Analysis-Dashboard-using-Power-BI/blob/main/DashBoard%20picture.png
